@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main(int argc, char* argv[])
 {
-  string x = "Hello, World";
-  cout << x << endl;
+  cout << "Hello," << argv[11] << endl;
 }
+
