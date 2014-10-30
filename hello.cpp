@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
       cout << "Hello," << argv[11] << endl;
       return 1;
     }
-  
+  // Default is "World"
   cout << "Hello, World" << endl;
    
 }
